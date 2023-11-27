@@ -31,9 +31,9 @@ Information on analysis using the GeoMX Data Analysis software can be found [her
 
 * [GeoScript Hub](https://nanostring.com/products/geomx-digital-spatial-profiler/geoscript-hub/):  Nanostring contributed R scripts for data normalization, dimensionality reduction, visualization (e.g. heatmaps, volcano plots), can be used within the GeoMX DSP analysis suite
 
-* [GeoDiff] (https://github.com/Nanostring-Biostats/GeoDiff):  R package for different normalization strategies for analyzing GeoMX RNA assays
+* [GeoDiff](https://github.com/Nanostring-Biostats/GeoDiff):  R package for different normalization strategies for analyzing GeoMX RNA assays
 
-* [DSP Workflow on NIDAP] (https://bioinformatics.ccr.cancer.gov/ccbr/education-training/nidap-training/?cid=eb_govdel#:~:text=Digital%20Spatial%20Profiling%20Analysis%20Workflow%3A):  Workflow on the NIH Integrated Data Analysis Platform (NCI only)
+* [DSP Workflow on NIDAP](https://bioinformatics.ccr.cancer.gov/ccbr/education-training/nidap-training/?cid=eb_govdel#:~:text=Digital%20Spatial%20Profiling%20Analysis%20Workflow%3A):  Workflow on the NIH Integrated Data Analysis Platform (NCI only)
 
 ### Other resources
 
