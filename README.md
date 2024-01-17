@@ -31,6 +31,8 @@ Information on analysis using the GeoMX Data Analysis software can be found [her
 
 * [GeoScript Hub](https://nanostring.com/products/geomx-digital-spatial-profiler/geoscript-hub/):  Nanostring contributed R scripts for data normalization, dimensionality reduction, visualization (e.g. heatmaps, volcano plots), can be used within the GeoMX DSP analysis suite
 
+* [SpatialGE](https://fridleylab.github.io/spatialGE/): An R package for the visualization and analysis of spatially-resolved transcriptomics data
+
 * [GeoDiff](https://github.com/Nanostring-Biostats/GeoDiff):  R package for different normalization strategies for analyzing GeoMX RNA assays
 
 * [DSP Workflow on NIDAP](https://bioinformatics.ccr.cancer.gov/ccbr/education-training/nidap-training/?cid=eb_govdel#:~:text=Digital%20Spatial%20Profiling%20Analysis%20Workflow%3A):  Workflow on the NIH Integrated Data Analysis Platform (NCI only)
@@ -41,4 +43,4 @@ Information on analysis using the GeoMX Data Analysis software can be found [her
 
 * [Spatial Data Analysis Service (sDAS)](https://nanostring.com/products/geomx-digital-spatial-profiler/spatial-data-analysis-service/):  NanoString data analysis service for spatial biology experiments run on the GeoMx DSP
 
-* [GeoMX DSP Training & Workshop Series](https://nanostring.zoom.us/meeting/register/tJ0qd-isqjkiHtaANKxonzosPuxwQxk4n1Y-):  Bi-weekly live training sessions where users can learn how to utilize the GeoMx DSP Data Analysis Suite.  These trainings will walk through QC, filtering, normalization, setting up visualizations, and statistical tests.
+
